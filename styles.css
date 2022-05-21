@@ -7,7 +7,7 @@
 body {
     color:white;
     background-image: url("images/giphy.webp");
-    background-size: cover;
+    background-size: contain;
     /* background-repeat: no-repeat; */
     text-align: center;
     font-family: 'Fascinate', cursive; 
